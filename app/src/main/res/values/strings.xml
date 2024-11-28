@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Suara Hewan</string>
+    <string name="cat_desc">Cat Image</string>
+    <string name="dog_desc">Dog Image</string>
+</resources>
